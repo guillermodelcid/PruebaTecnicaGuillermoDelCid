@@ -10,12 +10,12 @@ namespace GuillermoDelCid.Entidades
             set { profundidadMaxima = value; }
         }
 
-        public Sumergir() { }
+        public Submarino() { }
 
-        public Sumergir(float metros) => (base.VelocidadMaxima, base.VelocidadMinima, base.Marca, base.Modelo) =
+        public Submarino(float metros) => (base.VelocidadMaxima, base.VelocidadMinima, base.Marca, base.Modelo) =
         (velocidadMaxima, velocidadMinima, marca, modelo);
 
-        
+
 
     }
 }

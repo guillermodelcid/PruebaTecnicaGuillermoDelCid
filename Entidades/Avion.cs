@@ -16,14 +16,11 @@ namespace GuillermoDelCid.Entidades
             set { alturaMinima = value; }
         }
 
-        public Avion() {}
-        public Avion(float velocidadMaxima, float velocidadMinima, string marca, string modelo) => 
-            (base.VelocidadMaxima, base.VelocidadMinima,base.Marca, base.Modelo) 
-                = (velocidadMaxima,velocidadMinima,marca,modelo);
-        public override double CalcularPrecio()
-        {
-            return this.Precio * this.Duracion;
-        }
-        
+        public Avion() { }
+        public Avion(float velocidadMaxima, float velocidadMinima, string marca, string modelo) =>
+            (base.VelocidadMaxima, base.VelocidadMinima, base.Marca, base.Modelo)
+                = (velocidadMaxima, velocidadMinima, marca, modelo);
+
+
     }
 }

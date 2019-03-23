@@ -91,8 +91,8 @@ namespace GuillermoDelCid.Model
 
             if (opcion == 1)
             {
-                vehiculo = new Avion(velocidadMaxima, velocidadMinima, Convert.ToDouble(duracion));
-                ((Avion)vehiculo).Precio = precioLocal;
+                vehiculo = new Avion(velocidadMaxima, velocidadMinima, modelo, marca);
+                ((Avion)vehiculo).AlturaMaxima = alturaMaxima;
             }
         }
     }
