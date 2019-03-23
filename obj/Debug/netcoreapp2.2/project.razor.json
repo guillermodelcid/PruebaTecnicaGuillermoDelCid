@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\BACKUP\\TRABAJO\\DROPBOX\\Dropbox\\GUILLERMO DEL CID\\DESARROLLO\\MICROSOFT .NET\\CURSO .NET - KINAL\\MODULO 2\\GuillermoDelCid\\GuillermoDelCid.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+D:\BACKUP\TRABAJO\DROPBOX\Dropbox\GUILLERMO DEL CID\DESARROLLO\MICROSOFT .NET\CURSO .NET - KINAL\MODULO 2\GuillermoDelCid\obj\Debug\netcoreapp2.2\GuillermoDelCid.csprojAssemblyReference.cache
+D:\BACKUP\TRABAJO\DROPBOX\Dropbox\GUILLERMO DEL CID\DESARROLLO\MICROSOFT .NET\CURSO .NET - KINAL\MODULO 2\GuillermoDelCid\obj\Debug\netcoreapp2.2\GuillermoDelCid.csproj.CoreCompileInputs.cache
+D:\BACKUP\TRABAJO\DROPBOX\Dropbox\GUILLERMO DEL CID\DESARROLLO\MICROSOFT .NET\CURSO .NET - KINAL\MODULO 2\GuillermoDelCid\obj\Debug\netcoreapp2.2\GuillermoDelCid.AssemblyInfoInputs.cache
+D:\BACKUP\TRABAJO\DROPBOX\Dropbox\GUILLERMO DEL CID\DESARROLLO\MICROSOFT .NET\CURSO .NET - KINAL\MODULO 2\GuillermoDelCid\obj\Debug\netcoreapp2.2\GuillermoDelCid.AssemblyInfo.cs
